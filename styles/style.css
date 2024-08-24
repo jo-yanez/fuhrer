@@ -109,7 +109,6 @@ body{
 
 .presentacion__imagen{
     width: 50%;
-
 }
 
 .footer{
@@ -135,6 +134,10 @@ body{
     .presentacion{
         flex-direction: column-reverse;
         padding: 5%;
+    }
+
+    .presentacion__imagen{
+        width: auto;
     }
 
     .presentacion__contenido{
