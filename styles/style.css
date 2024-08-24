@@ -109,6 +109,7 @@ body{
 
 .presentacion__imagen{
     width: 50%;
+    border-radius: 15px;
 }
 
 .footer{
